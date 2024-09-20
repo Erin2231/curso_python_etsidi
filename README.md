@@ -1,2 +1,3 @@
 # curso_python_etsidi
-Intento de organizar un proyecto en Github num tropecientos 86. Estse se supone que es para guardar mis nuevos conocimientos adquiridos en el curso de python que di en la ETSIDI el 2024.
+Intento de organizar un proyecto en Github num tropecientos 86. Estse se supone que es para guardar mis nuevos conocimientos adquiridos en el curso de python que de en la ETSIDI el 2024.
+En este caso se trata de un programa con interfaz gráfica que a partir de la API "AviationStack" recoje datos de los vuelos del aeropuerto que se escoja, en este caso el de BARAJAS, crea algún gráfico y lo envia al correo introducido en la interfaz con un mensaje bonito. Este proyecto me ha ayudado a practicar con python pero sobretodo a entender más el uso de la biblioteca matpotlib, descubrir la utilidad de las APIs y la potencia de las bibliotecas PANDAS y STREAMLIT.
